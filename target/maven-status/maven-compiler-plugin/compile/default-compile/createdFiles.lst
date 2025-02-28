@@ -1,0 +1,11 @@
+com\group2\ims\JakartaRestConfiguration.class
+controller\test\LoginControllerTest.class
+dao\test\AccountDAO.class
+entity\Job.class
+com\group2\ims\resources\JakartaEE10Resource.class
+controller\test\ProductControllerTest.class
+entity\test\Account.class
+dao\test\ProductDAO.class
+entity\test\Product.class
+controller\HelloServlet.class
+dao\DBContext.class
